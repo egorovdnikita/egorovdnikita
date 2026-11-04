@@ -10,6 +10,8 @@
 
 ### [Agent Pulse](https://github.com/egorovdnikita/agent-pulse) · MacOS-приложение · Open Source
 
+<a href="https://github.com/egorovdnikita/agent-pulse"><img src="assets/agent-pulse-cover.webp" width="100%" alt="Семь ботов Agent Pulse в разных состояниях: пишет, ошибка, рисует, печатает, работает, программирует и думает"></a>
+
 Живой характер ноутбука для macOS: маскот поверх всех окон показывает, как себя чувствует Mac и что делают ИИ-агенты. Главное — не пропустить момент, когда агент ждёт тебя: маскот смотрит прямо на тебя и подпрыгивает.
 
 - **Агенты.** Claude Code, Codex, Orca, Claude Cowork, claude.ai, Figma Make и Figma AI.
@@ -25,7 +27,5 @@
 - **Тишина.** Созвон, полный экран, тихие часы — реакции только глазами.
 - **Уведомления.** Пока маскота не видно, «ждёт тебя» и «готово» приходят системным уведомлением.
 - **Приватность.** Только системные сигналы — без чтения окон, файлов, буфера и названий приложений.
-
-<a href="https://github.com/egorovdnikita/agent-pulse"><img src="assets/agent-pulse-cover.webp" width="100%" alt="Семь ботов Agent Pulse в разных состояниях: пишет, ошибка, рисует, печатает, работает, программирует и думает"></a>
 
 Замер на MacBook M2: процессор 0.7–2.6%, память 31–44 MB. Стек: Swift · SwiftUI · AppKit · Lottie.
