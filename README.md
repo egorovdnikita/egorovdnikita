@@ -2,7 +2,7 @@
 
 Я продуктовый дизайнер с опытом 5+ лет. Работал с B2C-продуктами на 10+ млн пользователей, сложными B2B-интерфейсами и AI-инструментами. Веду задачи полным циклом, от исследований до контроля реализации.
 
-[Портфолио](https://nikitaegorov.framer.ai) · [Telegram](https://t.me/egorov_d_nikita) · [LinkedIn](https://linkedin.com/in/egorovdnikita) · Москва
+[Портфолио](https://nikitaegorov.framer.ai) · [Telegram](https://t.me/egorov_d_nikita) · [LinkedIn](https://linkedin.com/in/egorovdnikita)
 
 ---
 
