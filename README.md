@@ -1,4 +1,4 @@
-# Никита Егоров — продуктовый дизайнер
+### Никита Егоров — продуктовый дизайнер
 
 Я продуктовый дизайнер с опытом 5+ лет. Работал с B2C-продуктами на 10+ млн пользователей, сложными B2B-интерфейсами и AI-инструментами. Веду задачи полным циклом, от исследований до контроля реализации.
 
@@ -6,9 +6,9 @@
 
 ---
 
-## Работы
+### Работы
 
-### [Agent Pulse](https://github.com/egorovdnikita/agent-pulse) · MacOS-приложение · Open Source
+#### [Agent Pulse](https://github.com/egorovdnikita/agent-pulse) · MacOS-приложение · Open Source
 
 <a href="https://github.com/egorovdnikita/agent-pulse"><img src="assets/agent-pulse-cover.webp" width="100%" alt="Семь ботов Agent Pulse в разных состояниях: пишет, ошибка, рисует, печатает, работает, программирует и думает"></a>
 
