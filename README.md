@@ -4,8 +4,6 @@
 
 [Портфолио](https://nikitaegorov.framer.ai) · [Telegram](https://t.me/egorov_d_nikita) · [LinkedIn](https://linkedin.com/in/egorovdnikita)
 
----
-
 ## Работы
 
 ### [Agent Pulse](https://github.com/egorovdnikita/agent-pulse) · MacOS-приложение · Open Source
