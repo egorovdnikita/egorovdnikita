@@ -8,7 +8,7 @@
 
 ### [Agent Pulse](https://github.com/egorovdnikita/agent-pulse) · MacOS-приложение · Open Source
 
-<a href="https://github.com/egorovdnikita/agent-pulse"><img src="assets/agent-pulse-demo.webp?v=4" width="100%" alt="Agent Pulse: маскот Agent Pals рядом с Dock; клики и приближения показывают лимиты, добавление файлов, анимация лимитов и файлов, Докладчик с подсветкой слов, пауза и перевод от пустого состояния до результата"></a>
+<a href="https://github.com/egorovdnikita/agent-pulse"><img src="assets/agent-pulse-demo.webp?v=5" width="100%" alt="Agent Pulse: маскот Agent Pals рядом с Dock; клики и приближения показывают лимиты, добавление файлов, анимация лимитов и файлов, Докладчик с подсветкой слов, пауза и перевод от пустого состояния до результата"></a>
 
 Живой характер ноутбука для macOS: маскот поверх всех окон показывает, как себя чувствует Mac и что делают ИИ-агенты. Главное — не пропустить момент, когда агент ждёт тебя: маскот смотрит прямо на тебя и подпрыгивает.
 
